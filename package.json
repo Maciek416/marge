@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Maciek416/marge/issues"
   },
-  "homepage": "https://github.com/Maciek416/marge#readme"
+  "homepage": "https://github.com/Maciek416/marge#readme",
+  "dependencies": {
+    "yargs": "^3.15.0"
+  }
 }
