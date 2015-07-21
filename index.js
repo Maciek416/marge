@@ -10,7 +10,6 @@
 
 var path = require("path");
 var yargs = require("yargs");
-var configFilePath = yargs.argv.config || "./magellan.json";
 
 var argv = {};
 
